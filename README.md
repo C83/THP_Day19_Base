@@ -1,24 +1,25 @@
-# README
+# THP_Day19 : Static pages
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We made an application simple, basic because you're too... hum well, looked rather below
 
-Things you may want to cover:
+## 1. The basics
 
-* Ruby version
+We have created a new rails app 
 
-* System dependencies
+## 2. A little bit of formating
 
-* Configuration
+We made our app a little more beautiful by adding css code
 
-* Database creation
+## 3. Our first pages
 
-* Database initialization
+We've created pages full of nothing with routes, used params ```as:``` to give nice nicknames to our pages, create methods, views and change the view about.html.erb
 
-* How to run the test suite
+## Okay, you can
 
-* Services (job queues, cache servers, search engines, etc.)
+Go on our site after getting our work on github and have a little ```bundle install``` in the folder <br/>
 
-* Deployment instructions
+Thank you the correctors 
 
-* ...
+## Team 
+
+Realized by Cyril M. & Pacôme P, the Caen team !
